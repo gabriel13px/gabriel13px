@@ -1,7 +1,13 @@
 # 💫 Sobre mim:
 🎓 Estudante de Engenharia da Computação <br> 💡 Entusiasta de Tecnologia e Eletrônica  <br>📚 Sempre em busca de aprender e repassar conhecimento<br>📍 Fortaleza - CE 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel13px/gabriel13px/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel13px/gabriel13px/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabriel13px/gabriel13px/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 ## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gabriel13_px) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel13px) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-oliveira-da-silva-486281359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielga0304@gmail.com) 
 
