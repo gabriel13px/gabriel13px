@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel13px&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ 
-
+"Se quer algo bem feito faça vc mesmo"
 
 ---
 
