@@ -1,11 +1,6 @@
 # 💫 Sobre mim:
 🎓 Estudante de Engenharia da Computação <br> 💡 Entusiasta de Tecnologia e Eletrônica  <br>📚 Sempre em busca de aprender e repassar conhecimento<br>📍 Fortaleza - CE 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel13px/gabriel13px/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel13px/gabriel13px/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabriel13px/gabriel13px/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 ## 🌐 Redes Sociais:
